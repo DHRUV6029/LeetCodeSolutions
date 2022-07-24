@@ -13,6 +13,6 @@ class Solution:
             mp.add(nums[x])
             max_sum = max(max_sum , cur_sum)
 
-            max_sum = max(max_sum ,cur_sum)
+            
             
         return max_sum
